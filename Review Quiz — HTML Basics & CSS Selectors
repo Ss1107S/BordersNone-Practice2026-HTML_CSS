@@ -1,0 +1,26 @@
+Review Quiz — HTML Basics & CSS Selectors
+1 C)
+2 B)
+3 <b> <i>
+4 B) 
+5 False
+6 <!-- -->
+7 B)
+8 B)
+9 B)
+10 <ul>  its an unorder list and <ol> its an order list
+11 True 
+12 B)
+13 C)
+14  the difference between .title and #title as CSS selectors is .title its the class selector, #title its id selector
+15 B)
+
+Bonus:
+<!-- My favorite foods -->
+<h1>My Favorite Foods</h1>
+<hr />
+<ul>
+  <li>Pizza</li>
+  <li>Tacos</li>
+  <img src="tacos.jpg">
+</ul>
